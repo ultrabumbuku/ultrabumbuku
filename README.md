@@ -1,4 +1,4 @@
 # ultrabumbuku
-- B2
+- B3
   - Studying LIS at University of Tsukuba
   - [Sohosai](https://sohosai.com)
